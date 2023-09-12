@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "897fc2500bc6ceb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "75e5d06d3793ebd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "927fa078f5694daa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🔥Capstone/시간표.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "89e2a81fb90a8886",
+    "type": "split",
+    "children": [
+      {
+        "id": "b77d16bc0f18396d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "040d3f0e2216dff0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8844cb8e6796b2fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "affeeebfabc5c97e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5316e902887d94c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c09f9f94c2cad363",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "740dd9183c71ced3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "🔥Capstone/시간표.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f56475552100058c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🔥Capstone/시간표.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "970376846826315a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a15ea983954f0c55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🔥Capstone/시간표.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "random-note:랜덤 노트 열기": false,
+      "workspaces:작업 공간 레이아웃 관리": false
+    }
+  },
+  "active": "927fa078f5694daa",
+  "lastOpenFiles": [
+    "Template",
+    "Assets",
+    "무제 파일.md",
+    "무제 파일.canvas",
+    "🔥Capstone/시간표.md",
+    "🔥Capstone"
+  ]
+}
