@@ -1,0 +1,29 @@
+{
+  "settings": {
+    "migrated": 2,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 14,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiHomeassistantWhite",
+      "SiLaravelWhite",
+      "SiFlutterWhite",
+      "SiHexoWhite",
+      "SiFigmaWhite"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "캡스톤": "SiFlutterWhite",
+  "Template": "TiTemplate",
+  "Assets": "FabImages",
+  "캡스톤/시간표.md": "IbPin"
+}
