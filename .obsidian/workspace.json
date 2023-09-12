@@ -4,22 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "75e5d06d3793ebd4",
+        "id": "de94d6d226ab69ab",
         "type": "tabs",
         "children": [
           {
-            "id": "927fa078f5694daa",
+            "id": "65032486dedad531",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔥Capstone/시간표.md",
+                "file": "🔥Capstone/시간표 데이터 만들기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -64,6 +65,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "78428f25251f764b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔥Capstone/시간표.md",
+                "file": "🔥Capstone/시간표 데이터 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔥Capstone/시간표.md",
+                "file": "🔥Capstone/시간표 데이터 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +134,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔥Capstone/시간표.md"
+                "file": "🔥Capstone/시간표 데이터 만들기.md"
               }
+            }
+          },
+          {
+            "id": "04bb04aece95e710",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -144,16 +161,19 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "random-note:랜덤 노트 열기": false,
-      "workspaces:작업 공간 레이아웃 관리": false
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "927fa078f5694daa",
+  "active": "65032486dedad531",
   "lastOpenFiles": [
+    "🔥Capstone/플러터로 에브리타임 같은 시간표 구현하기.md",
+    "🔥Capstone/시간표 데이터 만들기.md",
+    "Assets/Pasted image 20230912164111.png",
     "Template",
     "Assets",
     "무제 파일.md",
     "무제 파일.canvas",
-    "🔥Capstone/시간표.md",
     "🔥Capstone"
   ]
 }
