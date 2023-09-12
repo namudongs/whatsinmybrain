@@ -3,5 +3,7 @@
   "strictLineBreaks": true,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Assets"
+  "attachmentFolderPath": "Assets",
+  "showLineNumber": false,
+  "readableLineLength": false
 }
