@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🔥Capstone/시간표 데이터 만들기.md",
+                "file": "🔥Capstone/플러터로 에브리타임처럼 시간표 구현하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🔥Capstone/시간표 데이터 만들기.md",
+                "file": "🔥Capstone/플러터로 에브리타임처럼 시간표 구현하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🔥Capstone/시간표 데이터 만들기.md",
+                "file": "🔥Capstone/플러터로 에브리타임처럼 시간표 구현하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🔥Capstone/시간표 데이터 만들기.md"
+                "file": "🔥Capstone/플러터로 에브리타임처럼 시간표 구현하기.md"
               }
             }
           },
@@ -167,8 +167,8 @@
   },
   "active": "65032486dedad531",
   "lastOpenFiles": [
-    "🔥Capstone/플러터로 에브리타임 같은 시간표 구현하기.md",
     "🔥Capstone/시간표 데이터 만들기.md",
+    "🔥Capstone/플러터로 에브리타임처럼 시간표 구현하기.md",
     "Assets/Pasted image 20230912164111.png",
     "Template",
     "Assets",
