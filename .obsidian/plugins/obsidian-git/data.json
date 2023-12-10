@@ -51,5 +51,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "vault backup: {{date}}"
+  "autoCommitMessage": "볼트 백업: {{date}}"
 }

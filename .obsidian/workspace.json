@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5316e902887d94c5",
@@ -144,9 +145,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "97b6cf00b012d71a",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
