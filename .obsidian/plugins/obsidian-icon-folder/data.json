@@ -22,8 +22,5 @@
     },
     "iconInTabsEnabled": false
   },
-  "Template": "TiTemplate",
-  "Assets": "FabImages",
-  "QUNIV": "SiFlutterWhite",
-  "QUNIV/시간표.md": "IbPin"
+  "Template": "TiTemplate"
 }
