@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "64037533617d5916",
+        "id": "984c8e21e1dd9a78",
         "type": "tabs",
         "children": [
           {
-            "id": "0573c3606956bd17",
+            "id": "9a3b1c99f8213d4e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "분산및병렬프로그래밍 8장.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5316e902887d94c5",
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "분산및병렬프로그래밍 8장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "분산및병렬프로그래밍 8장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "분산및병렬프로그래밍 8장.md"
+              }
             }
           },
           {
@@ -137,7 +145,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,24 +165,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0573c3606956bd17",
+  "active": "9a3b1c99f8213d4e",
   "lastOpenFiles": [
-    "캡스톤/posts/시간표 데이터 만들기.md",
-    "캡스톤/posts/플러터로 에브리타임처럼 시간표 구현하기.md",
-    "캡스톤/시간표.md",
-    "캡스톤/idea/시간표 구현해야 할 기능.md",
-    "캡스톤/idea/새로운 시간표 변환규칙.md",
-    "캡스톤/idea/강의 정보 데이터 설명.md",
-    "캡스톤/idea",
-    "무제 파일.md",
+    "분산및병렬프로그래밍 7장.md",
+    "QUNIV/posts/시간표 데이터 만들기.md",
+    "분산및병렬프로그래밍 8장.md",
+    "QUNIV/idea/시간표 구현해야 할 기능.md",
+    "QUNIV/idea/새로운 시간표 변환규칙.md",
+    "QUNIV/idea/강의 정보 데이터 설명.md",
+    "QUNIV/posts/플러터로 에브리타임처럼 시간표 구현하기.md",
+    "Assets/2204203656BD375B31.png",
+    "Assets/275D3F3956BD36BF02.png",
+    "KNU/영상통신4.md",
+    "KNU/영상통신3.md",
+    "KNU/영상통신2.md",
+    "KNU/영상통신.md",
+    "Assets/HSI+=+Hue(색상),+Saturation(채도),+Intensity(명도).jpg",
+    "Assets/275D3F3956BD36BF02 1.png",
+    "QUNIV/시간표.md",
+    "KNU",
+    "QUNIV/idea",
     "Assets/Simulator Screen Recording - iPhone 14 Pro - 2023-09-12 at 18.47.15.gif",
     "Assets/Pasted image 20230912184204.png",
     "🔥Capstone/무제 파일.md",
-    "캡스톤/posts",
+    "QUNIV/posts",
     "Assets/Pasted image 20230912164111.png",
     "Template",
     "Assets",
     "무제 파일.canvas",
-    "캡스톤"
+    "QUNIV"
   ]
 }

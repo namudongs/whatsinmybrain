@@ -22,8 +22,8 @@
     },
     "iconInTabsEnabled": false
   },
-  "캡스톤": "SiFlutterWhite",
   "Template": "TiTemplate",
   "Assets": "FabImages",
-  "캡스톤/시간표.md": "IbPin"
+  "QUNIV": "SiFlutterWhite",
+  "QUNIV/시간표.md": "IbPin"
 }
