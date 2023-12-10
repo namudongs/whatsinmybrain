@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "41daca14cdda6273",
+        "id": "f7bb9292cfe8cc45",
         "type": "tabs",
         "children": [
           {
-            "id": "43119a933b3493bf",
+            "id": "d5ca130bdc215849",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5316e902887d94c5",
@@ -166,7 +165,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43119a933b3493bf",
+  "active": "d5ca130bdc215849",
   "lastOpenFiles": [
     "분산및병렬프로그래밍 8장.md",
     "분산및병렬프로그래밍 7장.md",
