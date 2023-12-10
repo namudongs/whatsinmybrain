@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "984c8e21e1dd9a78",
+        "id": "41daca14cdda6273",
         "type": "tabs",
         "children": [
           {
-            "id": "9a3b1c99f8213d4e",
+            "id": "43119a933b3493bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "분산및병렬프로그래밍 8장.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "분산및병렬프로그래밍 8장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "분산및병렬프로그래밍 8장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "분산및병렬프로그래밍 8장.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,7 +166,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "040d3f0e2216dff0",
+  "active": "43119a933b3493bf",
   "lastOpenFiles": [
     "분산및병렬프로그래밍 8장.md",
     "분산및병렬프로그래밍 7장.md",
