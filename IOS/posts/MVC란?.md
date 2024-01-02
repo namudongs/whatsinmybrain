@@ -7,6 +7,8 @@
 MVC란 Model-View-Controller의 세 부분으로 앱을 분리하는 것을 목표로 하는 아키텍쳐 패턴이다.
 이렇게 하는 이유는 코드의 재사용성을 높이고, 유지 관리를 쉽게 하며, 각 부분의 독립성을 강화해 서로간의 충돌로 인한 예기치 않은 문제들을 미연에 방지하기 위해서다.
 
+![[Pasted image 20240102210946.png]]
+
 ## Model
 
 Model은 데이터와 데이터를 처리하는 비즈니스 로직을 담당한다.
@@ -40,7 +42,7 @@ struct Weather {
 Color와 같은 상수나, String의 추가적인 기능 등 Util이나 Extension 코드들도 Model에 포함된다.
 
 ex)
-Network Code, DB, Core Data, Codable, Manager(=Wrapper Class), DataSource, Delegate, CompletionBlcok, Constant, 
+Network Code, DB, Core Data, Codable, Manager(=Wrapper Class), DataSource, Delegate, CompletionBlcok, Constant, Extension
 
 ## View
 
@@ -55,11 +57,20 @@ View에서는 재사용성이 강조되는데, 자주 쓰이는 버튼이나 텍
 
 Storyboard로 View를 구현한다면 Main.storyboard와 같은 .storyboard 파일이 View에 해당할 것이다.
 
+ex)
+UIView Subclass, UIkit Class, Animation, Graphics
+
 ## Controller
 
 Controller 는 Model-View 사이의 연결고리 역할을 하는, MVC 아키텍쳐에서 가장 핵심 로직을 담당한다.
 View에 표시할 데이터를 Controller가 Model에서 받아와 전달하고, View로부터 사용자의 상호작용을 받아 Model에게 전달한다.
 이러한 상호작용을 위해서 Controller는 각 View마다 따로 존재하게 되는데, 이 떄문에 View에 비해 재사용성이 부족하게 된다.
+
+ex)
+What should be the next screen and in what situation should it be?
+How often should the app be refreshed?
+What should be done when the app moves to the background?
+What should be done after the user taps a cell?
 
 ## iOS에서의 MVC 아키텍쳐
 
@@ -71,3 +82,9 @@ View에 표시할 데이터를 Controller가 Model에서 받아와 전달하고,
 UIkit의 UIViewController처럼 View와 Controller가 붙어 있어 UIView의 LifeCycle까지 UIViewController가 관리한다. 이렇게 되면 대부분의 코드가 Controller에 밀집되고, Massive View Controller가 만들어질 수 있다.
 
 이 문제를 해결하기 위해서는 Delegate 패턴이나 KVO를 사용하는 방법도 있고, Coordinator 패턴을 사용할 수도 있다.
+아키텍처에 집중하기 보단, SOLID 원칙에 따르는 것도 좋은 방법이다.
+
+https://www.kodeco.com/1000705-model-view-controller-mvc-in-ios-a-modern-approach
+위 링크에서는 MVC 아키텍처의 현대적인 접근 방법을 설명하고 있으니 참고해도 좋을 듯 하다.
+
+💡오래된 아키텍처든, 최신 아키텍처든, 만능은 아니며 상황에 맞게 사용해야 한다는 점이 제일 중요하다!
