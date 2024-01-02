@@ -12,6 +12,35 @@ MVC란 Model-View-Controller의 세 부분으로 앱을 분리하는 것을 목�
 Model은 데이터와 데이터를 처리하는 비즈니스 로직을 담당한다.
 여기서 비즈니스 로직이란 앱의 핵심 기능을 구현하는 코드 부분으로, 네트워크 처리나, 데이터 파싱, 앱 내 연산 등이 있다.
 또한 Model은 데이터로 사용하는 구조체도 포함하는데 데이터를 파싱해서 저장하는 다음과 같은 구조체를 의미한다.
+
 ```Swift
-struct 
+//WeatherKit을 사용하여 날씨 데이터를 받아와 저장하는 구조체
+struct Weather {
+    let location: String
+    let temperature: Double
+    let humidity: Double
+    let windSpeed: Double
+    let condition: WeatherCondition
+    let forecast: [DailyForecast]
+
+    init(from weatherData: WeatherData, at location: String) {
+        self.location = location
+        self.temperature = weatherData.currentWeather.temperature.value
+        self.humidity = weatherData.currentWeather.humidity
+        self.windSpeed = weatherData.currentWeather.wind.speed.value
+        self.condition = weatherData.currentWeather.condition
+        self.forecast = weatherData.forecast.daily
+    }
+}
 ```
+
+이렇게 데이터를 저장하는 구조체 외에도, API 호출을 담당하는 WeatherService와 같은 Service 코드나,
+사용자의 위치를 가져오는 LocationManager와 같은 Manager 코드도 포함될 수 있다.
+
+Color나, String의 추가적인 기능 등 Util이나 Extension과 같은 상수 코드들도 Model에 포함된다.
+
+## View
+
+View 부분은 사용자에게 정보를 표시하는 인터페이스를 담당한다.
+위처럼 WeatherKit을 이용해 날씨 정보를 받아왔다면, 이를 어떻게 표시할지 구성하는 코드를 포함한다.
+
