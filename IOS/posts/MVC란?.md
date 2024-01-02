@@ -37,10 +37,21 @@ struct Weather {
 이렇게 데이터를 저장하는 구조체 외에도, API 호출을 담당하는 WeatherService와 같은 Service 코드나,
 사용자의 위치를 가져오는 LocationManager와 같은 Manager 코드도 포함될 수 있다.
 
-Color나, String의 추가적인 기능 등 Util이나 Extension과 같은 상수 코드들도 Model에 포함된다.
+Color와 같은 상수나, String의 추가적인 기능 등 Util이나 Extension 코드들도 Model에 포함된다.
 
 ## View
 
 View 부분은 사용자에게 정보를 표시하는 인터페이스를 담당한다.
 위처럼 WeatherKit을 이용해 날씨 정보를 받아왔다면, 이를 어떻게 표시할지 구성하는 코드를 포함한다.
+버튼이나 레이블, 이미지 뷰, 텍스트 필드 같은 UI 요소들과 오토레이아웃 코드들도 포함된다.
 
+View에서는 재사용성이 강조되는데, 자주 쓰이는 버튼이나 텍스트필드와 같은 코드들은 추상화해서 사용하는게 좋다.
+중요한 점은 View와 Model 사이에서는 어떠한 상호작용도 이루어지면 안되고, 비즈니스 로직을 포함해서도 안된다.
+이러한 상호작용은 Controller를 통해 간접적으로만 이루어져야 한다.
+즉, View의 요청을 받아 Controller가 Model로 전달하고, Model의 데이터 변화는 Controller가 View에 전달해야 한다.
+
+Storyboard로 View를 구현한다면 Main.storyboard와 같은 .storyboard 파일이 View에 해당할 것이다.
+
+## Controller
+
+Controller 는 Model-View 사이의 연결고리 역할을 한다.
