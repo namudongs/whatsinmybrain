@@ -5,16 +5,20 @@
       "path": "IOS/posts/MVC란?.md"
     },
     {
+      "basename": "MVC",
+      "path": "MVC.png"
+    },
+    {
+      "basename": "CocoaMVC",
+      "path": "CocoaMVC.png"
+    },
+    {
       "basename": "시간표 데이터 만들기",
       "path": "Projects/quniv/posts/시간표 데이터 만들기.md"
     },
     {
       "basename": "플러터로 에브리타임처럼 시간표 구현하기",
       "path": "Projects/quniv/posts/플러터로 에브리타임처럼 시간표 구현하기.md"
-    },
-    {
-      "basename": "Pasted image 20230912164111.png",
-      "path": "Pasted image 20230912164111.png.md"
     },
     {
       "basename": "시간표",

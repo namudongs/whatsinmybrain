@@ -7,7 +7,7 @@
 MVC란 Model-View-Controller의 세 부분으로 앱을 분리하는 것을 목표로 하는 아키텍쳐 패턴이다.
 이렇게 하는 이유는 코드의 재사용성을 높이고, 유지 관리를 쉽게 하며, 각 부분의 독립성을 강화해 서로간의 충돌로 인한 예기치 않은 문제들을 미연에 방지하기 위해서다.
 
-![[Pasted image 20240102210946.png]]
+![[MVC.png]]
 
 ## Model
 
@@ -76,7 +76,7 @@ What should be done after the user taps a cell?
 
 애플에서는 기본적으로 MVC 아키텍쳐를 지원하기에 쉽게 접근할 수 있고, 다른 아키텍쳐에 비해 친숙하고 단순한 개념이기 때문에 더 많은 개발자가 쉽게 이해하고 유지보수할 수 있으며, 개발 속도가 빨라 작은 규모의 프로젝트에서 사용하기 좋다는 장점이 있다.
 
-![[Pasted image 20240102205849.png]]
+![[CocoaMVC.png]]
 
 하지만 iOS에서는 View와 Controller가 밀접하게 연결되어 있다.
 UIkit의 UIViewController처럼 View와 Controller가 붙어 있어 UIView의 LifeCycle까지 UIViewController가 관리한다. 이렇게 되면 대부분의 코드가 Controller에 밀집되고, Massive View Controller가 만들어질 수 있다.
