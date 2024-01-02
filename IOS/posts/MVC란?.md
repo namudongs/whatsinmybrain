@@ -39,6 +39,9 @@ struct Weather {
 
 Color와 같은 상수나, String의 추가적인 기능 등 Util이나 Extension 코드들도 Model에 포함된다.
 
+ex)
+Network Code, DB, Core Data, Codable, Manager(=Wrapper Class), DataSource, Delegate, CompletionBlcok, Constant, 
+
 ## View
 
 View 부분은 사용자에게 정보를 표시하는 인터페이스를 담당한다.
@@ -60,4 +63,11 @@ View에 표시할 데이터를 Controller가 Model에서 받아와 전달하고,
 
 ## iOS에서의 MVC 아키텍쳐
 
-애플에서는 기본적으로 MVC 아키텍쳐를 지원하기에 쉽게 접근할 수 있고, 다른 아키텍쳐에 비해 친숙하고 단순한 개념이기
+애플에서는 기본적으로 MVC 아키텍쳐를 지원하기에 쉽게 접근할 수 있고, 다른 아키텍쳐에 비해 친숙하고 단순한 개념이기 때문에 더 많은 개발자가 쉽게 이해하고 유지보수할 수 있으며, 개발 속도가 빨라 작은 규모의 프로젝트에서 사용하기 좋다는 장점이 있다.
+
+![[Pasted image 20240102205849.png]]
+
+하지만 iOS에서는 View와 Controller가 밀접하게 연결되어 있다.
+UIkit의 UIViewController처럼 View와 Controller가 붙어 있어 UIView의 LifeCycle까지 UIViewController가 관리한다. 이렇게 되면 대부분의 코드가 Controller에 밀집되고, Massive View Controller가 만들어질 수 있다.
+
+이 문제를 해결하기 위해서는 Delegate 패턴이나 KVO를 사용하는 방법도 있고, Coordinator 패턴을 사용할 수도 있다.
