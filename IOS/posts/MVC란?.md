@@ -56,3 +56,8 @@ Storyboard로 View를 구현한다면 Main.storyboard와 같은 .storyboard 파�
 
 Controller 는 Model-View 사이의 연결고리 역할을 하는, MVC 아키텍쳐에서 가장 핵심 로직을 담당한다.
 View에 표시할 데이터를 Controller가 Model에서 받아와 전달하고, View로부터 사용자의 상호작용을 받아 Model에게 전달한다.
+이러한 상호작용을 위해서 Controller는 각 View마다 따로 존재하게 되는데, 이 떄문에 View에 비해 재사용성이 부족하게 된다.
+
+## iOS에서의 MVC 아키텍쳐
+
+애플에서는 기본적으로 MVC 아키텍쳐를 지원하기에 쉽게 접근할 수 있고, 다른 아키텍쳐에 비해 친숙하고 단순한 개념이기
