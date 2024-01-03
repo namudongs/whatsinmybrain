@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IOS/posts/MVC란?.md",
+                "file": "IOS/posts/첫 번째 프로젝트 구상 - 왓시즌.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "029c29c9fc8e0bc9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IOS/posts/MVC란?.md",
+                "file": "IOS/posts/첫 번째 프로젝트 구상 - 왓시즌.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IOS/posts/MVC란?.md",
+                "file": "IOS/posts/첫 번째 프로젝트 구상 - 왓시즌.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IOS/posts/MVC란?.md"
+                "file": "IOS/posts/첫 번째 프로젝트 구상 - 왓시즌.md"
               }
             }
           },
@@ -184,9 +173,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "029c29c9fc8e0bc9",
+  "active": "01390c81aa656001",
   "lastOpenFiles": [
     "IOS/posts/MVC란?.md",
+    "IOS/posts/첫 번째 프로젝트 구상 - 왓시즌.md",
     "MVC.png",
     "CocoaMVC.png",
     "Pasted image 20230912164111.png.md",
