@@ -1,52 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "첫 번째 프로젝트 구상 - 왓시즌",
-      "path": "IOS/posts/첫 번째 프로젝트 구상 - 왓시즌.md"
-    },
-    {
-      "basename": "MVC란?",
-      "path": "IOS/posts/MVC란?.md"
-    },
-    {
-      "basename": "MVC",
-      "path": "MVC.png"
-    },
-    {
-      "basename": "CocoaMVC",
-      "path": "CocoaMVC.png"
-    },
-    {
-      "basename": "시간표 데이터 만들기",
-      "path": "Projects/quniv/posts/시간표 데이터 만들기.md"
-    },
-    {
-      "basename": "플러터로 에브리타임처럼 시간표 구현하기",
-      "path": "Projects/quniv/posts/플러터로 에브리타임처럼 시간표 구현하기.md"
-    },
-    {
-      "basename": "시간표",
-      "path": "Projects/quniv/시간표.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Projects/whatseason/Untitled.md"
-    },
-    {
-      "basename": "강의 정보 데이터 설명",
-      "path": "Projects/quniv/idea/강의 정보 데이터 설명.md"
-    },
-    {
-      "basename": "새로운 시간표 변환규칙",
-      "path": "Projects/quniv/idea/새로운 시간표 변환규칙.md"
+      "basename": "할 일",
+      "path": "project/whatseason/할 일.md"
     },
     {
       "basename": "시간표 구현해야 할 기능",
-      "path": "Projects/quniv/idea/시간표 구현해야 할 기능.md"
+      "path": "project/quniv/idea/시간표 구현해야 할 기능.md"
+    },
+    {
+      "basename": "새로운 시간표 변환규칙",
+      "path": "project/quniv/idea/새로운 시간표 변환규칙.md"
+    },
+    {
+      "basename": "MVC란?",
+      "path": "posts/MVC란?.md"
+    },
+    {
+      "basename": "시간표",
+      "path": "project/quniv/시간표.md"
+    },
+    {
+      "basename": "MacOS Sonoma, Xcode 15 RC 플러터 에러 해결",
+      "path": "posts/MacOS Sonoma, Xcode 15 RC 플러터 에러 해결.md"
+    },
+    {
+      "basename": "플러터로 에브리타임처럼 시간표 구현하기",
+      "path": "posts/플러터로 에브리타임처럼 시간표 구현하기.md"
+    },
+    {
+      "basename": "시간표 데이터 만들기",
+      "path": "posts/시간표 데이터 만들기.md"
+    },
+    {
+      "basename": "첫 번째 프로젝트 구상 - 왓시즌",
+      "path": "posts/첫 번째 프로젝트 구상 - 왓시즌.md"
+    },
+    {
+      "basename": "강의 정보 데이터 설명",
+      "path": "project/quniv/idea/강의 정보 데이터 설명.md"
     },
     {
       "basename": "분산및병렬프로그래밍 8장",
-      "path": "분산및병렬프로그래밍 8장.md"
+      "path": "knu/분산및병렬프로그래밍 8장.md"
+    },
+    {
+      "basename": "Weatherkit",
+      "path": "assets/Weatherkit.png"
+    },
+    {
+      "basename": "Openweathermap",
+      "path": "assets/Openweathermap.png"
+    },
+    {
+      "basename": "KMA",
+      "path": "assets/KMA.png"
+    },
+    {
+      "basename": "MVC",
+      "path": "assets/MVC.png"
+    },
+    {
+      "basename": "CocoaMVC",
+      "path": "assets/CocoaMVC.png"
     }
   ],
   "omittedPaths": [],

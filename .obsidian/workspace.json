@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b2dba4d801c6baa",
+        "id": "29e0561c04d7c212",
         "type": "tabs",
         "children": [
           {
-            "id": "01390c81aa656001",
+            "id": "a4c772f75a5c9324",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IOS/posts/첫 번째 프로젝트 구상 - 왓시즌.md",
+                "file": "project/whatseason/할 일.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IOS/posts/첫 번째 프로젝트 구상 - 왓시즌.md",
+                "file": "project/whatseason/할 일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IOS/posts/첫 번째 프로젝트 구상 - 왓시즌.md",
+                "file": "project/whatseason/할 일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IOS/posts/첫 번째 프로젝트 구상 - 왓시즌.md"
+                "file": "project/whatseason/할 일.md"
               }
             }
           },
@@ -173,30 +173,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01390c81aa656001",
+  "active": "a4c772f75a5c9324",
   "lastOpenFiles": [
-    "IOS/posts/MVC란?.md",
-    "IOS/posts/첫 번째 프로젝트 구상 - 왓시즌.md",
-    "MVC.png",
-    "CocoaMVC.png",
+    "project/quniv/idea/시간표 구현해야 할 기능.md",
+    "project/quniv/idea/새로운 시간표 변환규칙.md",
+    "project/whatseason/할 일.md",
+    "posts/MVC란?.md",
+    "project/quniv/시간표.md",
+    "posts/MacOS Sonoma, Xcode 15 RC 플러터 에러 해결.md",
+    "assets/Pasted image 20240103153438.png",
+    "assets/Pasted image 20240103153413.png",
+    "posts/플러터로 에브리타임처럼 시간표 구현하기.md",
+    "posts/시간표 데이터 만들기.md",
+    "posts/첫 번째 프로젝트 구상 - 왓시즌.md",
+    "project/quniv/idea/강의 정보 데이터 설명.md",
+    "knu/분산및병렬프로그래밍 8장.md",
+    "knu",
+    "assets/Weatherkit.png",
+    "assets",
+    "assets/Openweathermap.png",
+    "assets/KMA.png",
+    "assets/MVC.png",
+    "assets/CocoaMVC.png",
     "Pasted image 20230912164111.png.md",
-    "Projects/quniv/posts/시간표 데이터 만들기.md",
-    "Projects/quniv/posts/플러터로 에브리타임처럼 시간표 구현하기.md",
-    "IOS/posts",
+    "posts",
     "IOS/무제 파일.md",
-    "Projects/quniv/시간표.md",
-    "Projects/whatseason/Untitled.md",
-    "Projects",
+    "project",
     "IOS",
-    "Projects/whatseason",
-    "Projects/quniv/idea/강의 정보 데이터 설명.md",
-    "Projects/quniv/idea/새로운 시간표 변환규칙.md",
-    "Projects/quniv/idea/시간표 구현해야 할 기능.md",
-    "분산및병렬프로그래밍 8장.md",
-    "분산및병렬프로그래밍 7장.md",
+    "project/whatseason",
+    "knu/분산및병렬프로그래밍 7장.md",
     "Projects/quniv/posts",
-    "Projects/quniv/idea",
-    "Projects/quniv",
+    "project/quniv/idea",
+    "project/quniv",
     "🔥Capstone/플러터로 에브리타임처럼 시간표 구현하기.md",
     "🔥Capstone/플러터로 에브리타임 같은 시간표 구현하기.md",
     "🔥Capstone/시간표 데이터 만들기.md",
@@ -208,13 +216,7 @@
     "KNU/영상통신3.md",
     "KNU/영상통신2.md",
     "KNU/영상통신.md",
-    "Assets/HSI+=+Hue(색상),+Saturation(채도),+Intensity(명도).jpg",
-    "Assets/275D3F3956BD36BF02 1.png",
-    "KNU",
-    "Assets/Simulator Screen Recording - iPhone 14 Pro - 2023-09-12 at 18.47.15.gif",
-    "Assets/Pasted image 20230912184204.png",
     "🔥Capstone/무제 파일.md",
-    "Template",
     "무제 파일.canvas"
   ]
 }
